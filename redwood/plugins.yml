@@ -1,0 +1,11 @@
+# This is the index for all Tutor plugins used by edunext.
+# It is available at the following location: https://raw.githubusercontent.com/nelc/tutor-plugin-indexes/main/redwood/plugins.yml
+# The default plugins from the overhang index: https://overhang.io/tutor/main/redwood/plugins.yml
+
+- name: nelc-extensions
+  src: 'git+https://github.com/nelc/tutor-contrib-nelc-extensions@and/support_tutor_18'
+  url: 'https://github.com/nelc/tutor-contrib-nelc-extensions.git'
+  author: edunext <technical@edunext.co>
+  maintainer: edunext <technical@edunext.co>
+  description: >
+    Tutor Plugin to add features, tools, extension to nelc docker images.
