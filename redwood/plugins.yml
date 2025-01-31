@@ -3,7 +3,7 @@
 # The default plugins from the overhang index: https://overhang.io/tutor/main/redwood/plugins.yml
 
 - name: nelc-extensions
-  src: 'git+https://github.com/nelc/tutor-contrib-nelc-extensions@and/support_tutor_18'
+  src: 'git+https://github.com/nelc/tutor-contrib-nelc-extensions@v18.0.1'
   url: 'https://github.com/nelc/tutor-contrib-nelc-extensions.git'
   author: edunext <technical@edunext.co>
   maintainer: edunext <technical@edunext.co>
