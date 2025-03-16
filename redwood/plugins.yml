@@ -9,3 +9,11 @@
   maintainer: edunext <technical@edunext.co>
   description: >
     Tutor Plugin to add features, tools, extension to nelc docker images.
+
+- name: futurex-theme
+  src: 'git+https://github.com/nelc/futurex-theme@nelc/redwood.develop'
+  url: 'https://github.com/nelc/futurex-theme.git'
+  author: edly <info@edly.com>
+  maintainer: edly <info@edly.com>
+  description: >
+    Tutor Plugin to add the customized indigo theme.
